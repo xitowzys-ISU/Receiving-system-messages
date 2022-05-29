@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaiterDemo</string>
+
+    <string name="waiting">Подождите...</string>
+    <string name="waiting_time">Время: %d</string>
+    <string name="bored">Отписаться?</string>
+    <string name="go">Вы успешно отписались</string>
+    <string name="low">Маленький заряд батареи</string>
+</resources>
